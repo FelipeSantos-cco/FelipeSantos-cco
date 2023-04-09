@@ -1,7 +1,7 @@
-👋 Prazer, Felipe Santos :)
+👋 Prazer, Felipe Santos 😄
 ==============================
 
-"Oportunidades devem ser criadas e não somente encontradas!"
+💡 "Oportunidades devem ser criadas e não somente encontradas!"
 ------------------------------------------------------------
 
 Técnico em Desenvolvimento de sistemas e atualmente no 1° Semestre de Ciências da Computação na São Paulo Tech School - SPTech.
