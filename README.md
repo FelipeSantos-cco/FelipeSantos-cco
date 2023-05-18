@@ -21,6 +21,10 @@ Técnico em Desenvolvimento de sistemas e atualmente no 1° Semestre de Ciência
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+### Certificações
+- Microsoft Certified: Azure Data Fundamentals. [Certificate](https://www.credly.com/badges/1b533ff8-529a-4fa1-8a32-989f5eba6d63)
+- Microsoft Certified: Azure AI Fundamentals. [Certificate](https://www.credly.com/badges/62724d82-b553-4319-8be1-cd06b0b9cc96)
+
 ### Redes
 
 <p align="left"><a href="https://www.linkedin.com/in/felipesco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@felipesco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
