@@ -11,7 +11,7 @@ Técnico em Desenvolvimento de sistemas e atualmente no 1° Semestre de Ciência
 
 ### Habilidades
 
-<p align="left">
+<p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -21,9 +21,10 @@ Técnico em Desenvolvimento de sistemas e atualmente no 1° Semestre de Ciência
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-### Certificações
-- Microsoft Certified: Azure Data Fundamentals. [Certificate](https://www.credly.com/badges/1b533ff8-529a-4fa1-8a32-989f5eba6d63)
-- Microsoft Certified: Azure AI Fundamentals. [Certificate](https://www.credly.com/badges/62724d82-b553-4319-8be1-cd06b0b9cc96)
+<p align="center">
+<a href="https://www.credly.com/badges/1b533ff8-529a-4fa1-8a32-989f5eba6d63" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="150" height="150" alt="Microsoft Certified: Azure Data Fundamentals" /></a>
+<a href="https://www.credly.com/badges/62724d82-b553-4319-8be1-cd06b0b9cc96" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="150" height="150" alt="Microsoft Certified: Azure AI Fundamentals" /></a>
+</p>
 
 ### Redes
 
