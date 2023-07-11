@@ -6,7 +6,7 @@
 
 Técnico em Desenvolvimento de sistemas e atualmente no 1° Semestre de Ciências da Computação na São Paulo Tech School - SPTech.
 
-*  📍 São Paulo - ZL, Brasil.
+*  📍 São Paulo, Brasil.
 *   ✉️  Me mande um e-mail [felipesantosdealmeida.2020@gmail.com](mailto:felipesantosdealmeida.2020@gmail.com)
 
 ### Habilidades
