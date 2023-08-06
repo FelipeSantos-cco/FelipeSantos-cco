@@ -7,7 +7,7 @@
 *  Técnico em Desenvolvimento de sistemas
 *  Estudando Ciências da Computação na São Paulo Tech School - SPTech.
 *  📍 São Paulo, Brasil.
-*  Apaixonado por Segurança Ofensiva, Pentest...
+*  Apaixonado por Segurança Ofensiva, Pentest... Hacking
 
 ### Habilidades
 
