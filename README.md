@@ -6,9 +6,8 @@
 
 *  Técnico em Desenvolvimento de sistemas
 *  Estudando Ciências da Computação na São Paulo Tech School - SPTech.
-
 *  📍 São Paulo, Brasil.
-*   ✉️  Me mande um e-mail [felipesantosdealmeida.2020@gmail.com](mailto:felipesantosdealmeida.2020@gmail.com)
+*  Apaixonado por Segurança Ofensiva, Pentest...
 
 ### Habilidades
 
