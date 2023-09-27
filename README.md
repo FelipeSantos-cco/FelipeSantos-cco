@@ -4,10 +4,10 @@
 ### 💡 "Oportunidades devem ser criadas e não somente encontradas!"
 ------------------------------------------------------------
 
-*  Técnico em Desenvolvimento de sistemas
-*  Estudando Ciências da Computação na São Paulo Tech School - SPTech.
-*  📍 São Paulo, Brasil.
-*  Apaixonado por Segurança Ofensiva, Business Intelligence e Analytics
+* 🤓 Estudando Ciência da Computação - SPTech, São Paulo Tech School 2/8;
+* 🤖 Técnico em Desenvolvimento de Sistemas - Etec de Guaianazes 2022;
+* 🌎 São Paulo, Brasil;
+* ❤️ Apaixonado por Segurança Ofensiva, Business Intelligence e Analytics;
 
 ### Habilidades
 
