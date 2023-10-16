@@ -7,7 +7,7 @@
 * 🤓 Estudando Ciência da Computação - SPTech, São Paulo Tech School 2/8;
 * 🤖 Técnico em Desenvolvimento de Sistemas - Etec de Guaianazes 2022;
 * 🌎 São Paulo, Brasil;
-* ❤️ Apaixonado por Segurança Ofensiva, Business Intelligence e Analytics;
+* ❤️ Apaixonado por Segurança Ofensiva, Business Intelligence, Data Science e Analytics;
 
 ### Habilidades
 
