@@ -4,8 +4,8 @@
 ==============================
 
 
-* 🚀 RPA Developer @ Dock | Python & Java Developer | AWS, RPA - ETL, Data Scientist;
-* 🤓 Estudando Ciência da Computação - SPTech, São Paulo Tech School 5/8;
+* 🚀 RPA Developer @ Safe Care | Python & Java Developer | AWS, RPA, Data Scientist;
+* 🤓 Estudando Ciência da Computação - SPTech, São Paulo Tech School 7/8;
 * 🤖 Técnico em Desenvolvimento de Sistemas - Etec de Guaianazes, 2022;
 * 🌎 São Paulo, Brasil;
 * ❤️ Apaixonado por Segurança Ofensiva, Business Intelligence, Data Science e Analytics;
